@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Kristian Kobescak
 
-<!--
-**kobescak-kristian/kobescak-kristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Automation Specialist based in Malta. I build intelligent automation 
+systems that replace manual business processes using Make.com, OpenAI, and Python.
 
-Here are some ideas to get you started:
+Previously Country Manager at Bolt (Malta & Cyprus) — P&L accountability, 
+50+ staff. Now applying operational judgment to automation design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I build
+- Multi-step automation pipelines (Make.com)
+- AI-powered data enrichment and scoring systems
+- Python scripts for document generation and validation
+- RAG and knowledge-base integrations (in progress)
+
+### Current stack
+Make.com · OpenAI · Python · HubSpot · Google Sheets · Slack
+
+📎 [LinkedIn](https://www.linkedin.com/in/kristiankobescak) · [Portfolio](https://github.com/kobescak-kristian/ai-automation-portfolio)
