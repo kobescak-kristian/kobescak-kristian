@@ -15,4 +15,4 @@ Previously Country Manager at Bolt (Malta & Cyprus) — P&L accountability,
 ### Current stack
 Make.com · OpenAI · Python · HubSpot · Google Sheets · Slack
 
-📎 [LinkedIn](https://www.linkedin.com/in/kristiankobescak) 
+🔗 [LinkedIn](https://www.linkedin.com/in/kristiankobescak) · [Upwork](https://www.upwork.com/freelancers/~0177209118ed3d6e51)
