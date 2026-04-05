@@ -7,12 +7,12 @@ Previously Country Manager at Bolt (Malta & Cyprus) — P&L accountability,
 50+ staff. Now applying operational judgment to automation design.
 
 ### What I build
-- Multi-step automation pipelines (Make.com)
-- AI-powered data enrichment and scoring systems
-- Python scripts for document generation and validation
+- Automated lead enrichment and CRM routing pipelines
+- Data validation systems with real-time error alerting
+- Document generation automation (72 PDFs from a single script)
 - RAG and knowledge-base integrations (in progress)
 
 ### Current stack
 Make.com · OpenAI · Python · HubSpot · Google Sheets · Slack
 
-📎 [LinkedIn](https://www.linkedin.com/in/kristiankobescak) · [Portfolio](https://github.com/kobescak-kristian/ai-automation-portfolio)
+📎 [LinkedIn](https://www.linkedin.com/in/kristiankobescak) 
