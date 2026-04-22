@@ -10,7 +10,7 @@ I specialise in turning messy, manual processes into structured, automated syste
 
 ### What I build
 
-- AI systems with validation, fallback logic, and controlled decision routing (production-style)
+- AI systems that prevent incorrect decisions using validation and controlled routing (production-style)
 - Workflow automation that replaces manual operations across CRM, reporting, and document generation
 - Data extraction systems with checkpoint recovery and structured outputs
 - Decision pipelines that prioritise high-value actions and reduce manual workload
