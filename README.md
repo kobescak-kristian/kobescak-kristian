@@ -2,6 +2,8 @@
 
 Former operations leader (Bolt Malta & Cyprus) now building AI systems that replace manual workflows and improve decision-making in real-world operations.
 
+Focused on building production-ready AI systems that reduce manual work and improve decision accuracy.
+
 I specialise in turning messy, manual processes into structured, automated systems — from data extraction and validation to AI-driven decision routing and performance tracking.
 
 ---
