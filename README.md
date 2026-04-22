@@ -1,6 +1,6 @@
 ## Hi, I'm Kristian Kobescak
 
-Former operations leader (Bolt Malta & Cyprus) now building AI systems that replace manual workflows and improve decision-making in real-world operations.
+Former operations leader (Bolt Malta & Cyprus) now building AI systems that replace manual workflows and improve decision accuracy in real-world operations.
 
 Focused on building production-ready AI systems that reduce manual work and improve decision accuracy.
 
