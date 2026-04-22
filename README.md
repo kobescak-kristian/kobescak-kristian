@@ -1,18 +1,25 @@
 ## Hi, I'm Kristian Kobescak
 
-AI Automation Specialist based in Malta. I build intelligent automation 
-systems that replace manual business processes using Make.com, OpenAI, and Python.
+Former operations leader (Bolt Malta & Cyprus) now building AI systems that replace manual workflows and improve decision-making in real-world operations.
 
-Previously Country Manager at Bolt (Malta & Cyprus) — P&L accountability, 
-50+ staff. Now applying operational judgment to automation design.
+I specialise in turning messy, manual processes into structured, automated systems — from data extraction and validation to AI-driven decision routing and performance tracking.
+
+---
 
 ### What I build
-- Automated lead enrichment and CRM routing pipelines
-- Data validation systems with real-time error alerting
-- Document generation automation (72 PDFs from a single script)
-- RAG and knowledge-base integrations (in progress)
+
+- AI systems with validation, fallback logic, and controlled decision routing (production-style)
+- Workflow automation that replaces manual operations across CRM, reporting, and document generation
+- Data extraction systems with checkpoint recovery and structured outputs
+- Decision pipelines that prioritise high-value actions and reduce manual workload
+- RAG and knowledge-based systems (in progress)
+
+---
 
 ### Current stack
-Make.com · OpenAI · Python · HubSpot · Google Sheets · Slack
 
-🔗 [LinkedIn](https://www.linkedin.com/in/kristiankobescak) · [Upwork](https://www.upwork.com/freelancers/~0177209118ed3d6e51)
+Python · OpenAI · Make.com · APIs · JSON · HubSpot · Google Sheets · Slack
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/kristiankobescak) · [Upwork](https://www.upwork.com/freelancers/~0177209118ed36e51)
