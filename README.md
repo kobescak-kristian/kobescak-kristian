@@ -37,9 +37,16 @@ Measures financial consequences and optimizes decision thresholds
 
 ---
 
-### Current stack
+### Stack (for reference)
 
-Python · OpenAI · Make.com · APIs · JSON · HubSpot · Google Sheets · Slack
+**Core:** Python · FastAPI · APIs · JSON  
+**AI:** OpenAI (structured outputs, evaluation pipelines)  
+**Data:** SQL · SQLite (aggregation, filtering, joins)  
+**Integrations:** HubSpot · Google Sheets · Slack  
+
+(Also experienced in workflow automation and no-code tools when appropriate)
+
+(Focused on building end-to-end decision systems, not isolated tools)
 
 ---
 
