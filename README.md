@@ -1,20 +1,39 @@
-## Hi, I'm Kristian Kobescak
+## AI Decision Systems Builder
 
-Former operations leader (Bolt Malta & Cyprus) now building AI systems that replace manual workflows and improve decision accuracy in real-world operations.
+I design production-style AI systems that don’t just generate outputs — they validate, evaluate, and measure the real-world impact of decisions.
 
-Focused on building production-ready AI systems that reduce manual work and improve decision accuracy.
+Most AI systems stop at output.
 
-I specialise in turning messy, manual processes into structured, automated systems — from data extraction and validation to AI-driven decision routing and performance tracking.
+I build the layer around them:
+→ prevent failures  
+→ measure correctness  
+→ quantify business impact  
+
+Former Operations Leader (Bolt Malta & Cyprus), now focused on turning manual workflows into reliable, decision-driven systems.
 
 ---
 
-### What I build
+## What I Build
 
-- AI systems that prevent incorrect decisions using validation and controlled routing (production-style)
-- Workflow automation that replaces manual operations across CRM, reporting, and document generation
-- Data extraction systems with checkpoint recovery and structured outputs
-- Decision pipelines that prioritise high-value actions and reduce manual workload
-- RAG and knowledge-based systems (in progress)
+End-to-end AI decision systems composed of three layers:
+
+- **Reliability Layer**  
+Prevents invalid AI outputs from triggering business actions  
+
+- **Decision Layer**  
+Tracks outcomes and evaluates whether decisions were correct  
+
+- **Impact Layer**  
+Measures financial consequences and optimizes decision thresholds  
+
+→ Together, these form a complete decision intelligence system
+
+
+## Featured Systems
+
+- **[AI Workflow Reliability Engine](https://github.com/kobescak-kristian/ai-workflow-reliability-engine)**  
+- **[AI Decision Engine](https://github.com/kobescak-kristian/ai-decision-engine-feedback)**  
+- **[AI Impact Engine](https://github.com/kobescak-kristian/ai-impact-decision-intelligence-engine)**
 
 ---
 
