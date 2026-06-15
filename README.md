@@ -50,4 +50,4 @@ Measures financial consequences and optimizes decision thresholds
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/kristiankobescak) · [Upwork](https://www.upwork.com/freelancers/~0177209118ed36e51)
+[LinkedIn](https://www.linkedin.com/in/kristiankobescak) · [Upwork](https://www.upwork.com/nx/find-work/best-matches)
