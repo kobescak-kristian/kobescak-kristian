@@ -5,6 +5,7 @@ I design production-style AI systems that don’t just generate outputs — they
 Most AI systems stop at output.
 
 I build the layer around them:
+
 → prevent failures  
 → measure correctness  
 → quantify business impact  
