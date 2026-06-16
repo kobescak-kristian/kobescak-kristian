@@ -1,4 +1,4 @@
-## AI Decision Systems Builder
+﻿## AI Decision Systems Builder
 
 I design production-style AI systems that don’t just generate outputs — they validate, evaluate, and measure the real-world impact of decisions.
 
@@ -32,8 +32,8 @@ Measures financial consequences and optimizes decision thresholds
 
 ## Featured Systems
 
-- **[AI Workflow Reliability Engine](https://github.com/kobescak-kristian/ai-workflow-reliability-engine)**  
-- **[AI Decision Engine](https://github.com/kobescak-kristian/ai-decision-engine-feedback)**  
+- **[AI Workflow Reliability Engine](https://github.com/kobescak-kristian/ai-reliability-engine)**  
+- **[AI Decision Engine](https://github.com/kobescak-kristian/ai-decision-engine)**  
 - **[AI Impact Engine](https://github.com/kobescak-kristian/ai-impact-decision-intelligence-engine)**
 
 ---
