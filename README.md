@@ -51,4 +51,4 @@ Measures financial consequences and optimizes decision thresholds
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/kristiankobescak) · [Upwork](https://www.upwork.com/nx/find-work/best-matches)
+[LinkedIn](https://www.linkedin.com/in/kristiankobescak) · [GitHub Portfolio](https://github.com/kobescak-kristian/ai-automation-portfolio)
