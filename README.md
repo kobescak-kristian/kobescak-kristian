@@ -16,25 +16,22 @@ Former Operations Leader (Bolt Malta & Cyprus), now focused on turning manual wo
 
 ## What I Build
 
-End-to-end AI decision systems composed of three layers:
+End-to-end AI decision systems built across five engines:
 
-- **Reliability Layer**  
-Prevents invalid AI outputs from triggering business actions  
-
-- **Decision Layer**  
-Tracks outcomes and evaluates whether decisions were correct  
-
-- **Impact Layer**  
-Measures financial consequences and optimizes decision thresholds  
-
-→ Together, these form a complete decision intelligence system
+- **Reliability** — prevents invalid AI outputs from triggering business actions
+- **Decision** — tracks outcomes and evaluates whether decisions were correct
+- **Impact Scoring** — measures financial consequences and tunes thresholds
+- **Execution** — executes workflows and recommends operational improvements
+- **Context** — grounds decisions in retrieved precedent and explains them
 
 
 ## Featured Systems
 
-- **[AI Reliability Engine](https://github.com/kobescak-kristian/ai-reliability-engine)**  
-- **[AI Decision Engine](https://github.com/kobescak-kristian/ai-decision-engine)**  
+- **[AI Reliability Engine](https://github.com/kobescak-kristian/ai-reliability-engine)**
+- **[AI Decision Engine](https://github.com/kobescak-kristian/ai-decision-engine)**
 - **[AI Impact Scoring Engine](https://github.com/kobescak-kristian/ai-impact-scoring-engine)**
+- **[AI Execution Engine](https://github.com/kobescak-kristian/ai-execution-engine)**
+- **[AI Context Engine](https://github.com/kobescak-kristian/ai-context-engine)**
 
 ---
 
