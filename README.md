@@ -1,4 +1,4 @@
-﻿## AI Decision Systems Builder
+﻿## AI Operations Systems Builder
 
 I design production-style AI systems that don’t just generate outputs — they validate, evaluate, and measure the real-world impact of decisions.
 
