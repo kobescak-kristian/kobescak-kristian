@@ -48,4 +48,4 @@ End-to-end AI decision systems built across five engines:
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/kristiankobescak) · [GitHub Portfolio](https://github.com/kobescak-kristian/ai-automation-portfolio)
+[LinkedIn](https://www.linkedin.com/in/kristiankobescak) · [GitHub Portfolio](https://github.com/kobescak-kristian/ai-reliability-engine)
