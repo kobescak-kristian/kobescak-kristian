@@ -6,7 +6,7 @@ Before this: Country Manager at Bolt (Malta and Cyprus). P&L ownership, regulato
 
 ## The portfolio
 
-One decision pipeline, five public engines, one bounded agent:
+One decision pipeline, five public engines, one bounded agent, one multi-agent orchestrator:
 
 | Repo | What it does |
 |---|---|
@@ -16,6 +16,7 @@ One decision pipeline, five public engines, one bounded agent:
 | [ai-execution-engine](https://github.com/kobescak-kristian/ai-execution-engine) | Runs the workflow: five queues, deterministic checks, inspectable step by step. |
 | [ai-context-engine](https://github.com/kobescak-kristian/ai-context-engine) | Grounds decisions in retrieved precedent and cites sources. Its keyed eval run failed the pre-committed gate and shipped with the failure analyzed in the open. |
 | [ai-claim-verification-agent](https://github.com/kobescak-kristian/ai-claim-verification-agent) | Bounded agent: tool whitelist, turn cap, cost ceiling, SQLite audit trail. Shipped only after passing a pre-committed eval gate. |
+| [ai-compliance-orchestrator](https://github.com/kobescak-kristian/ai-compliance-orchestrator) | Orchestration: bounded checker agents fanning out over a deterministic control plane, contract-enforced handoffs, full audit trail, and a human gate nothing can bypass. Its detection layer failed the pre-committed eval gate — published as-is. |
 
 ## How I work
 
