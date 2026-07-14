@@ -18,6 +18,8 @@ One decision pipeline, five public engines, one bounded agent, one multi-agent o
 | [ai-claim-verification-agent](https://github.com/kobescak-kristian/ai-claim-verification-agent) | Bounded agent: tool whitelist, turn cap, cost ceiling, SQLite audit trail. Shipped only after passing a pre-committed eval gate. |
 | [ai-compliance-orchestrator](https://github.com/kobescak-kristian/ai-compliance-orchestrator) | Orchestration: bounded checker agents fanning out over a deterministic control plane, contract-enforced handoffs, full audit trail, and a human gate nothing can bypass. Its detection layer failed the pre-committed eval gate — published as-is. |
 
+Also public from day one: [ai-portfolio-sentinel](https://github.com/kobescak-kristian/ai-portfolio-sentinel) — a scheduled monitor over this portfolio, built fully in the open. Every decision and phase gate is in the git history from the first commit; it enters the table above only when its pre-committed eval gate passes.
+
 ## How I work
 
 - Eval thresholds are committed before the first line of system code. Results are recorded pass or fail.
