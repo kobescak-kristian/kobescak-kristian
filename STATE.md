@@ -6,7 +6,7 @@
 
 ## Current state
 
-`README.md` (the rendered GitHub profile page) currently lists the five public engines, `ai-claim-verification-agent`, and `ai-compliance-orchestrator` in "The portfolio" table, with `ai-portfolio-sentinel` named as public-from-day-one but not yet table-listed (pending its own eval gate). No decision record exists — this repo has no `adr/` or `decisions/` directory; its content is profile prose, not an executable system requiring architectural decisions.
+`README.md` (the rendered GitHub profile page) leads with the canonical positioning — operations practitioner turning business workflows into controlled AI-assisted systems — and carries a "Featured systems" table of six repositories in this order: `ai-portfolio-sentinel`, `ai-compliance-orchestrator`, `ai-claim-verification-agent`, `ai-context-engine`, `ai-execution-engine`, `ai-impact-scoring-engine`. `ai-portfolio-sentinel` is the portfolio/hiring flagship, with its status bounded on the profile as "in development toward production-ready". `ai-reliability-engine` and `ai-decision-engine` remain public and linked but are no longer in the featured set and carry no public flagship label (Reliability remains the Tier-1 documentation flagship internally; that is not a hiring-surface designation). The profile makes no portfolio-wide universal control claims. No decision record exists — this repo has no `adr/` or `decisions/` directory; its content is profile prose, not an executable system requiring architectural decisions.
 
 ## Build history (from `git log --reverse`, oldest → newest — almost entirely README revisions)
 
@@ -23,7 +23,8 @@
 - **2026-08-03** (`f6c137d`) — Publish-gate coverage canary added.
 - **2026-08-04** (`3f8cc5f`, `c649a59`) — Apache-2.0 license added; Q-35 pre-push hook installed with the validator call left disabled ("no validator yet" — accurate at the time, no local validator file existed until the next entry).
 - **2026-09-16** (`623ff54`) — Canonical AGENTS.md router adopted (Q-93); this is also when `.githooks/validate_artifacts.py` was first added to this repo — the pre-push comment from `c649a59` was not revisited at that point.
-- **2026-09-19** (this commit) — Q-72(f): STATE.md added (this file); validator gains a STATE.md-existence check; the pre-push validator call, dormant since before the validator file existed, is enabled (see the validator-convergence commit for verification detail).
+- **2026-09-19** (`f93a8dd`) — Q-72(f): STATE.md added (this file); validator gains a STATE.md-existence check; the pre-push validator call, dormant since before the validator file existed, is enabled (see the validator-convergence commit for verification detail).
+- **2026-09-21** (this commit) — `portfolio-profile-refresh-a`: README corrected to the canonical portfolio positioning from the September portfolio audit. Six-repository featured set installed in canonical order with Sentinel leading as portfolio/hiring flagship at bounded status "in development toward production-ready"; the public `Flagship.` label removed from Reliability; the "one decision pipeline, five public engines" integrated-runtime framing removed; the universal portfolio claims removed (eval gates before code, per-repo pre-push documentation validation, second-model re-derivation of every claim, and the "all eval data is labeled synthetic" limitation, which Sentinel's live repository/CI evidence falsified). Retained repository statements were re-derived from each repository's current public README before publication. STATE.md current state updated to match.
 
 ## Open loops
 
