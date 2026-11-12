@@ -26,6 +26,8 @@ evaluation figures, role and work-history wording, staff and fleet
 figures, dates, the status of any monitored repository, and the current
 positioning language.
 
+Classification: PROJECT.
+
 ## Authority and conflict handling
 
 | Question | Canonical source |
