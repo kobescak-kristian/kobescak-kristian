@@ -11,13 +11,13 @@ Independent repositories. They share a way of working, not a shared runtime.
 | Repo | What it does |
 |---|---|
 | [ai-compliance-orchestrator](https://github.com/kobescak-kristian/ai-compliance-orchestrator) | **Portfolio flagship.** Multi-jurisdiction iGaming compliance surveillance: one bounded checker agent per jurisdiction over a deterministic control plane, contract-enforced handoffs, an append-only adjudication ledger, and a human gate nothing in the system can bypass. Latest official evaluation: passed gate v2.1 on a private test set, with 29 of 30 synthetic scenarios passed in all 3 runs and 52 of 52 deterministic checks passed. |
-| [ai-portfolio-sentinel](https://github.com/kobescak-kristian/ai-portfolio-sentinel) | Scheduled monitor over my own public repositories: inventory derived live from the GitHub API, deterministic checks, a persistent finding ledger with dedup, and two judgment check classes handled by a caged single-tool agent. Read-only on everything it monitors, holding no credentials for them. Status: **in development toward production-ready**; scheduled runs are paused during qualification for unattended operation. |
+| [ai-reliability-engine](https://github.com/kobescak-kristian/ai-reliability-engine) | Validation and fallback layer between an AI classifier and the systems that act on its output: input sanitising, a schema check on every AI answer, a fallback path, and only low-confidence cases sent to a person, with every decision logged to SQLite. Across 51 test records, including deliberate edge cases, no invalid AI output reached downstream systems; the fallback triggered on 7 records, and all 7 went to manual review. |
 | [ai-claim-verification-agent](https://github.com/kobescak-kristian/ai-claim-verification-agent) | Bounded agent that checks a page's factual claims against source pages. Four read-only tools and nothing else, a 20-turn cap, a per-run cost ceiling, and a SQLite audit trail written before each tool result reaches the model. On a synthetic evaluation of 12 cases / 35 claims, run with neutral case names, it scored precision 1.00 / recall 1.00 (35/35), as did its [LangGraph port](https://github.com/kobescak-kristian/ai-claim-verification-langgraph). |
 | [ai-context-engine](https://github.com/kobescak-kristian/ai-context-engine) | Retrieval-grounded decision support: retrieved precedent, a validated decision with risk flags, and the full chain persisted for audit. Its keyed eval run scored 58/75 against a 69/75 threshold fixed before the run, with the miss pattern analyzed in its evaluation record. |
 | [ai-execution-engine](https://github.com/kobescak-kristian/ai-execution-engine) | Deterministic CRM lead workflow: normalization across three source types, score-based routing into five named queues, full stage history per lead, and a bounded agent that reads the resulting metrics and proposes changes without modifying any workflow state. |
 | [ai-impact-scoring-engine](https://github.com/kobescak-kristian/ai-impact-scoring-engine) | Attaches financial impact to lead-routing decisions, so threshold changes become cost decisions instead of guesses. Its figures come from a simulated 75-lead dataset built to produce both positive and negative outcomes. |
 
-Also public: [ai-reliability-engine](https://github.com/kobescak-kristian/ai-reliability-engine) and [ai-decision-engine](https://github.com/kobescak-kristian/ai-decision-engine).
+Also public: [ai-decision-engine](https://github.com/kobescak-kristian/ai-decision-engine).
 
 ## Workflow automations (n8n)
 
@@ -38,8 +38,8 @@ Business workflows built in n8n. Each repository holds the workflow files, the v
 
 ## Limitations
 
-- Evaluation datasets in these repositories are labeled synthetic. The exception is the portfolio sentinel, whose scheduled runs use real public repository and CI evidence while its eval gate runs on synthetic fixtures.
-- No production or uptime claims. Most of these systems are demonstrated in human-initiated test runs; the one built for unattended operation is still in development toward production-ready.
+- Evaluation datasets in these repositories are labeled synthetic.
+- No production or uptime claims. These systems are demonstrated in human-initiated test runs.
 - Controls differ per repository. These are independent projects, not one governed platform, so what any given system actually enforces is what its own README and evaluation record show.
 
 ## Start here
