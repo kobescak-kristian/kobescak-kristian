@@ -1,1 +1,1 @@
-.githooks/validate_artifacts.py | # Build-repo STATE rule (GOVERNANCE.md): required in every repo, no | owner ruling 2026-09-21
+.githooks/validate_artifacts.py | # Build-repo STATE rule (GOVERNANCE.md): required in every repo, no | reviewed 2026-09-21: a comment in the repository check script
