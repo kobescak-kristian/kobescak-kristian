@@ -42,6 +42,8 @@ Business workflows built in n8n. Each repository holds the workflow files, the v
 - No production or uptime claims. These systems are demonstrated in human-initiated test runs.
 - Controls differ per repository. These are independent projects, not one governed platform, so what any given system actually enforces is what its own README and evaluation record show.
 
-## Start here
+## Contact
 
 Portfolio and case studies: [kobescak-kristian.github.io](https://kobescak-kristian.github.io)
+
+LinkedIn: [linkedin.com/in/kristiankobescak](https://www.linkedin.com/in/kristiankobescak)
